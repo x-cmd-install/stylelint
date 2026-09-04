@@ -7,7 +7,7 @@ about:
   head: 0547bff
   archived: false
   latestVersion: 17.15.0
-  collectedAt: 2026-09-04T19:32:03Z
+  collectedAt: 2026-09-04T20:58:05Z
 timeline:
   created: 2014-12-04
   lastCommit: 2026-09-04
@@ -86,6 +86,74 @@ total:
   openIssue: 132
   commit: 7964
 ---
+path: /home/runner/.x-repo/github.com/stylelint/stylelint
+collectedAt: 2026-09-04T20:58:08Z
+loc:
+  JavaScript:
+    code: 106015
+    comments: 5704
+    blanks: 12208
+    files: 760
+  Json:
+    code: 12059
+    comments: 0
+    blanks: 0
+    files: 50
+  TypeScript:
+    code: 1332
+    comments: 432
+    blanks: 115
+    files: 2
+  Css:
+    code: 540
+    comments: 238
+    blanks: 157
+    files: 60
+  Sass:
+    code: 92
+    comments: 20
+    blanks: 27
+    files: 6
+  Html:
+    code: 52
+    comments: 1
+    blanks: 3
+    files: 6
+  Yaml:
+    code: 10
+    comments: 1
+    blanks: 1
+    files: 2
+  Svg:
+    code: 5
+    comments: 0
+    blanks: 0
+    files: 5
+  Less:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  PostCss:
+    code: 1
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 14451
+    blanks: 6614
+    files: 182
+  Text:
+    code: 0
+    comments: 4
+    blanks: 2
+    files: 2
+total:
+  code: 124870
+  comments: 21293
+  blanks: 19250
+  files: 1077
 ---
 date: "2026-08-24"
 repo:
