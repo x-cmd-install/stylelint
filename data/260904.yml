@@ -1,0 +1,62 @@
+about:
+  description: A mighty CSS linter that helps you avoid errors and enforce conventions.
+  license: MIT
+  homepage: https://stylelint.io
+  head: ac19a3c
+  archived: false
+  latestVersion: 17.14.1
+  collectedAt: 2026-09-04T04:25:52Z
+timeline:
+  created: 2014-12-04
+  lastCommit: 2026-09-03
+  lastRelease: 2026-07-20
+popularity:
+  star: 11517
+  watcher: 89
+  fork: 1019
+  release: 274
+  contributor: 438
+  pullRequest: 755
+  issue: 3718
+language:
+  JavaScript: 2870696
+  CSS: 15583
+  TypeScript: 4559
+  SCSS: 2585
+  HTML: 968
+  Shell: 40
+  Less: 4
+totalLine: 2894435
+recent:
+  last30d:
+    since: 2026-08-05
+    release: 0
+    mergedPR: 32
+    openPR: 1
+    closedIssue: 4
+    openIssue: 11
+    commit: 32
+  last90d:
+    since: 2026-06-06
+    release: 3
+    mergedPR: 98
+    openPR: 3
+    closedIssue: 10
+    openIssue: 17
+    commit: 97
+  last180d:
+    since: 2026-03-08
+    release: 13
+    mergedPR: 233
+    openPR: 3
+    closedIssue: 54
+    openIssue: 26
+    commit: 244
+  last360d:
+    since: 2025-09-09
+    release: 22
+    mergedPR: 496
+    openPR: 3
+    closedIssue: 126
+    openIssue: 34
+    commit: 498
