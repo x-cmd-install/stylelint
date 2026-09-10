@@ -7,7 +7,7 @@ about:
   latestVersion: "17.15.0"
   latestRelease: "17.15.0"
   latestPrerelease: "16.0.0-3"
-  collectedAt: 2026-09-10T21:24:37Z
+  collectedAt: 2026-09-10T22:26:24Z
 timeline:
   created: 2014-12-04
   lastCommit: 2026-09-08
@@ -89,7 +89,7 @@ total:
   commit: 7967
 ---
 path: /home/runner/.x-repo/github.com/stylelint/stylelint
-collectedAt: 2026-09-10T21:24:50Z
+collectedAt: 2026-09-10T22:26:37Z
 loc:
   JavaScript:
     code: 106120
