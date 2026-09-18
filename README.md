@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 46 | 8 | 5 | 11 | 22 |
-| last60d | 2026-07-19 | 2 | 81 | 10 | 9 | 15 | 56 |
-| 90d | 2026-06-19 | 3 | 106 | 10 | 13 | 15 | 85 |
-| last180d | 2026-03-21 | 13 | 238 | 11 | 56 | 22 | 220 |
-| 360d | 2025-09-22 | 23 | 511 | 11 | 130 | 29 | 493 |
-| last720d | 2024-09-27 | 44 | 995 | 11 | 333 | 55 | 996 |
+| 30d | 2026-08-19 | 1 | 41 | 8 | 5 | 11 | 22 |
+| last60d | 2026-07-20 | 2 | 77 | 10 | 8 | 15 | 56 |
+| 90d | 2026-06-20 | 3 | 106 | 10 | 13 | 15 | 85 |
+| last180d | 2026-03-22 | 13 | 238 | 11 | 56 | 22 | 220 |
+| 360d | 2025-09-23 | 23 | 511 | 11 | 127 | 28 | 493 |
+| last720d | 2024-09-28 | 44 | 995 | 11 | 332 | 55 | 996 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T06:31:28Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T06:15:21Z._
