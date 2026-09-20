@@ -4,7 +4,7 @@
 
 A mighty CSS linter that helps you avoid errors and enforce conventions.
 
-![stylelint](https://repo.x-cmd.io/stylelint.svg)
+[![x-cmd/install — stylelint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/stylelint.svg)](https://x-cmd.com/install/stylelint)
 
 ## Install
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,521 · **Forks**: 1,021 · **Open issues**: 3,721 · **Contributors**: 437
+- **Stars**: 11,523 · **Forks**: 1,021 · **Open issues**: 3,721 · **Contributors**: 437
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 41 | 8 | 5 | 11 | 22 |
-| last60d | 2026-07-20 | 2 | 77 | 10 | 8 | 15 | 56 |
-| 90d | 2026-06-20 | 3 | 106 | 10 | 13 | 15 | 85 |
-| last180d | 2026-03-22 | 13 | 238 | 11 | 56 | 22 | 220 |
-| 360d | 2025-09-23 | 23 | 511 | 11 | 127 | 28 | 493 |
-| last720d | 2024-09-28 | 44 | 995 | 11 | 332 | 55 | 996 |
+| 30d | 2026-08-21 | 1 | 40 | 8 | 4 | 11 | 22 |
+| last60d | 2026-07-22 | 1 | 68 | 10 | 8 | 15 | 56 |
+| 90d | 2026-06-22 | 3 | 106 | 10 | 11 | 15 | 85 |
+| last180d | 2026-03-24 | 13 | 236 | 11 | 54 | 22 | 220 |
+| 360d | 2025-09-25 | 23 | 509 | 11 | 125 | 28 | 493 |
+| last720d | 2024-09-30 | 44 | 995 | 11 | 331 | 55 | 994 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:15:21Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:13:10Z._
