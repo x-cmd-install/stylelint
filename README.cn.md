@@ -4,7 +4,7 @@
 
 A mighty CSS linter that helps you avoid errors and enforce conventions.
 
-[![x-cmd/install — stylelint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/stylelint.svg?lang=zh)](https://x-cmd.com/install/stylelint)
+[![x-cmd/install — stylelint Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/stylelint.svg?lang=zh)](https://x-cmd.com/install/stylelint)
 
 ## 安装
 
@@ -47,22 +47,22 @@ x install stylelint
 
 ## 流行度
 
-- **Star**: 11,524 · **Fork**: 1,021 · **开放 issue**: 3,721 · **贡献者**: 437
+- **Star**: 11,526 · **Fork**: 1,021 · **开放 issue**: 3,721 · **贡献者**: 437
 
 ## 累计统计
 
-- **发布数**: 275 · **已合并 PR**: 4958 · **开放 PR**: 10 · **已关闭 issue**: 3593 · **开放 issue**: 128 · **提交数**: 7967
+- **发布数**: 275 · **已合并 PR**: 4960 · **开放 PR**: 14 · **已关闭 issue**: 3593 · **开放 issue**: 128 · **提交数**: 7967
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 39 | 7 | 4 | 11 | 16 |
-| last60d | 2026-07-24 | 1 | 68 | 9 | 8 | 15 | 47 |
-| 90d | 2026-06-24 | 3 | 102 | 9 | 11 | 15 | 80 |
-| last180d | 2026-03-26 | 13 | 224 | 10 | 51 | 22 | 210 |
-| 360d | 2025-09-27 | 23 | 509 | 10 | 125 | 28 | 487 |
-| last720d | 2024-10-02 | 44 | 995 | 10 | 330 | 55 | 991 |
+| 30d | 2026-08-24 | 1 | 41 | 11 | 4 | 11 | 16 |
+| last60d | 2026-07-25 | 1 | 70 | 13 | 7 | 15 | 47 |
+| 90d | 2026-06-25 | 3 | 103 | 13 | 11 | 15 | 80 |
+| last180d | 2026-03-27 | 12 | 226 | 14 | 51 | 22 | 210 |
+| 360d | 2025-09-28 | 23 | 511 | 14 | 125 | 28 | 487 |
+| last720d | 2024-10-03 | 44 | 996 | 14 | 328 | 55 | 991 |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ stylelint 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:22:12Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:35:53Z._

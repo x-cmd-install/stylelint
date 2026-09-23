@@ -4,7 +4,7 @@
 
 A mighty CSS linter that helps you avoid errors and enforce conventions.
 
-[![x-cmd/install — stylelint Code Quality Monitoring Repo Card](https://repo.x-cmd.io/stylelint.svg)](https://x-cmd.com/install/stylelint)
+[![x-cmd/install — stylelint Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/stylelint.svg)](https://x-cmd.com/install/stylelint)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,524 · **Forks**: 1,021 · **Open issues**: 3,721 · **Contributors**: 437
+- **Stars**: 11,526 · **Forks**: 1,021 · **Open issues**: 3,721 · **Contributors**: 437
 
 ## Totals (cumulative)
 
-- **Releases**: 275 · **Merged PRs**: 4958 · **Open PRs**: 10 · **Closed issues**: 3593 · **Open issues**: 128 · **Commits**: 7967
+- **Releases**: 275 · **Merged PRs**: 4960 · **Open PRs**: 14 · **Closed issues**: 3593 · **Open issues**: 128 · **Commits**: 7967
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 39 | 7 | 4 | 11 | 16 |
-| last60d | 2026-07-24 | 1 | 68 | 9 | 8 | 15 | 47 |
-| 90d | 2026-06-24 | 3 | 102 | 9 | 11 | 15 | 80 |
-| last180d | 2026-03-26 | 13 | 224 | 10 | 51 | 22 | 210 |
-| 360d | 2025-09-27 | 23 | 509 | 10 | 125 | 28 | 487 |
-| last720d | 2024-10-02 | 44 | 995 | 10 | 330 | 55 | 991 |
+| 30d | 2026-08-24 | 1 | 41 | 11 | 4 | 11 | 16 |
+| last60d | 2026-07-25 | 1 | 70 | 13 | 7 | 15 | 47 |
+| 90d | 2026-06-25 | 3 | 103 | 13 | 11 | 15 | 80 |
+| last180d | 2026-03-27 | 12 | 226 | 14 | 51 | 22 | 210 |
+| 360d | 2025-09-28 | 23 | 511 | 14 | 125 | 28 | 487 |
+| last720d | 2024-10-03 | 44 | 996 | 14 | 328 | 55 | 991 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:22:09Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:35:52Z._
