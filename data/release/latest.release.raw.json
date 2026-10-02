@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/stylelint/stylelint/releases/382772167",
-  "assets_url": "https://api.github.com/repos/stylelint/stylelint/releases/382772167/assets",
-  "upload_url": "https://uploads.github.com/repos/stylelint/stylelint/releases/382772167/assets{?name,label}",
-  "html_url": "https://github.com/stylelint/stylelint/releases/tag/17.15.0",
-  "id": 382772167,
+  "url": "https://api.github.com/repos/stylelint/stylelint/releases/400851049",
+  "assets_url": "https://api.github.com/repos/stylelint/stylelint/releases/400851049/assets",
+  "upload_url": "https://uploads.github.com/repos/stylelint/stylelint/releases/400851049/assets{?name,label}",
+  "html_url": "https://github.com/stylelint/stylelint/releases/tag/17.16.0",
+  "id": 400851049,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,21 +25,21 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOAaRdW84W0KPH",
-  "tag_name": "17.15.0",
+  "node_id": "RE_kwDOAaRdW84X5IBp",
+  "tag_name": "17.16.0",
   "target_commitish": "main",
-  "name": "17.15.0",
+  "name": "17.16.0",
   "draft": false,
   "immutable": true,
   "prerelease": false,
-  "created_at": "2026-09-04T13:56:38Z",
-  "updated_at": "2026-09-04T14:01:44Z",
-  "published_at": "2026-09-04T14:01:44Z",
+  "created_at": "2026-10-01T10:14:47Z",
+  "updated_at": "2026-10-01T10:26:01Z",
+  "published_at": "2026-10-01T10:26:01Z",
   "assets": [
 
   ],
-  "tarball_url": "https://api.github.com/repos/stylelint/stylelint/tarball/17.15.0",
-  "zipball_url": "https://api.github.com/repos/stylelint/stylelint/zipball/17.15.0",
-  "body": "It adds 1 new rule and 2 new rule options, and fixes 4 bugs.\r\n\r\n* Added: `selector-no-unmatchable` rule (#9451) (@jeddy3).\r\n* Added: `ignoreFunctions: []` to `color-named` and `color-no-hex` (#9463) (@jsmitty12).\r\n* Fixed: `custom-property-no-missing-var-function` false positives for anchor positioning (#9466) (@giaBaoJS).\r\n* Fixed: `declaration-block-no-redundant-longhand-properties` autofix for `font` shorthand (#9402) (@sarathfrancis90).\r\n* Fixed: `declaration-property-max-values` false positives for interpolated inline expressions (#9437) (@alexchen-sys).\r\n* Fixed: `selector-no-invalid` false negatives for pseudo-elements, combinators and nested `:has()` (#9452) (@jeddy3).\r\n",
-  "mentions_count": 5
+  "tarball_url": "https://api.github.com/repos/stylelint/stylelint/tarball/17.16.0",
+  "zipball_url": "https://api.github.com/repos/stylelint/stylelint/zipball/17.16.0",
+  "body": "It fixes 2 bugs in the `layout-mappings` rules. This will likely be the last `17.x` release, as we prepare for `18.0.0`.\r\n\r\n* Fixed: `property-layout-mappings` and `unit-layout-mappings` false negatives for uppercase property names and units (#9485) (@giaBaoJS).\r\n* Fixed: `value-keyword-layout-mappings` false positives for `caption-side` (#9483) (@giaBaoJS).\r\n",
+  "mentions_count": 1
 }
