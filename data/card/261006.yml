@@ -259,4 +259,3 @@ checks:
     details:
       - 'Warn: 25 commits out of 30 are checked with a SAST tool'
 ---
-{"id":400851049,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAaRdW84X5IBp","tag_name":"17.16.0","target_commitish":"main","name":"17.16.0","draft":false,"immutable":true,"prerelease":false,"created_at":"2026-10-01T10:14:47Z","updated_at":"2026-10-01T10:26:01Z","published_at":"2026-10-01T10:26:01Z","assets":[],"body":"It fixes 2 bugs in the `layout-mappings` rules. This will likely be the last `17.x` release, as we prepare for `18.0.0`.\r\n\r\n* Fixed: `property-layout-mappings` and `unit-layout-mappings` false negatives for uppercase property names and units (#9485) (@giaBaoJS).\r\n* Fixed: `value-keyword-layout-mappings` false positives for `caption-side` (#9483) (@giaBaoJS).\r\n","mentions_count":1}
