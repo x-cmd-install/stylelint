@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,526 · **Forks**: 1,024 · **Open issues**: 3,726 · **Contributors**: 437
+- **Stars**: 11,527 · **Forks**: 1,025 · **Open issues**: 3,726 · **Contributors**: 437
 
 ## Totals (cumulative)
 
-- **Releases**: 276 · **Merged PRs**: 4982 · **Open PRs**: 19 · **Closed issues**: 3600 · **Open issues**: 126 · **Commits**: 7968
+- **Releases**: 276 · **Merged PRs**: 4982 · **Open PRs**: 23 · **Closed issues**: 3600 · **Open issues**: 126 · **Commits**: 7968
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 1 | 46 | 16 | 3 | 5 | 1 |
-| last60d | 2026-08-07 | 2 | 81 | 17 | 9 | 14 | 37 |
-| 90d | 2026-07-08 | 3 | 113 | 18 | 13 | 17 | 65 |
-| last180d | 2026-04-09 | 13 | 232 | 19 | 51 | 22 | 192 |
-| 360d | 2025-10-11 | 23 | 519 | 19 | 128 | 27 | 475 |
-| last720d | 2024-10-16 | 44 | 992 | 19 | 327 | 52 | 973 |
+| 30d | 2026-09-07 | 1 | 45 | 20 | 3 | 5 | 1 |
+| last60d | 2026-08-08 | 2 | 81 | 21 | 9 | 14 | 37 |
+| 90d | 2026-07-09 | 3 | 110 | 22 | 13 | 17 | 65 |
+| last180d | 2026-04-10 | 13 | 232 | 23 | 50 | 22 | 192 |
+| 360d | 2025-10-12 | 23 | 519 | 23 | 127 | 27 | 475 |
+| last720d | 2024-10-17 | 44 | 992 | 23 | 327 | 52 | 973 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:33:35Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:01:40Z._
