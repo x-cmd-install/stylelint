@@ -41,5 +41,17 @@
   "tarball_url": "https://api.github.com/repos/stylelint/stylelint/tarball/17.16.0",
   "zipball_url": "https://api.github.com/repos/stylelint/stylelint/zipball/17.16.0",
   "body": "It fixes 2 bugs in the `layout-mappings` rules. This will likely be the last `17.x` release, as we prepare for `18.0.0`.\r\n\r\n* Fixed: `property-layout-mappings` and `unit-layout-mappings` false negatives for uppercase property names and units (#9485) (@giaBaoJS).\r\n* Fixed: `value-keyword-layout-mappings` false positives for `caption-side` (#9483) (@giaBaoJS).\r\n",
+  "reactions": {
+    "url": "https://api.github.com/repos/stylelint/stylelint/releases/400851049/reactions",
+    "total_count": 1,
+    "+1": 1,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 0,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  },
   "mentions_count": 1
 }

@@ -1,14 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: stylelint
-  visiblename: stylelint
-  version: 16.19.1
-  origversion: null
-  status: outdated
-  summary: Mighty CSS linter that helps you avoid errors and enforce conventions
-  maintainers:
-    - me@momee.mt
-  licenses:
-    - MIT
 - repo: nix_stable_25_11
   srcname: stylelint
   visiblename: stylelint
@@ -24,9 +13,9 @@
   srcname: stylelint
   binname: stylelint
   visiblename: stylelint
-  version: 17.15.0
-  origversion: 17.15.0-1
-  status: outdated
+  version: 17.16.0
+  origversion: 17.16.0-1
+  status: newest
   summary: Mighty, modern CSS linter
   maintainers:
     - mewsen@aur
@@ -54,6 +43,17 @@
   srcname: stylelint
   visiblename: stylelint
   version: 16.9.0
+  origversion: null
+  status: outdated
+  summary: Mighty CSS linter that helps you avoid errors and enforce conventions
+  maintainers:
+    - me@momee.mt
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: stylelint
+  visiblename: stylelint
+  version: 16.19.1
   origversion: null
   status: outdated
   summary: Mighty CSS linter that helps you avoid errors and enforce conventions
