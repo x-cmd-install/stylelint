@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 277 · **Merged PRs**: 5039 · **Open PRs**: 6 · **Closed issues**: 3620 · **Open issues**: 110 · **Commits**: 8073
+- **Releases**: 277 · **Merged PRs**: 5039 · **Open PRs**: 5 · **Closed issues**: 3620 · **Open issues**: 110 · **Commits**: 8073
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 2 | 70 | 1 | 3 | 4 | 74 |
-| last60d | 2026-08-26 | 3 | 118 | 3 | 16 | 6 | 125 |
-| 90d | 2026-07-27 | 3 | 151 | 5 | 22 | 9 | 151 |
-| last180d | 2026-04-28 | 10 | 264 | 6 | 54 | 11 | 269 |
-| 360d | 2025-10-30 | 24 | 566 | 6 | 143 | 13 | 573 |
-| last720d | 2024-11-04 | 45 | 1009 | 6 | 339 | 37 | 1039 |
+| 30d | 2026-09-26 | 2 | 70 | 0 | 3 | 4 | 59 |
+| last60d | 2026-08-27 | 3 | 118 | 2 | 16 | 6 | 118 |
+| 90d | 2026-07-28 | 3 | 151 | 4 | 22 | 9 | 147 |
+| last180d | 2026-04-29 | 10 | 260 | 5 | 54 | 11 | 250 |
+| 360d | 2025-10-31 | 24 | 566 | 5 | 143 | 13 | 568 |
+| last720d | 2024-11-05 | 45 | 1009 | 5 | 338 | 37 | 1037 |
 
 ## Distribution status
 
@@ -82,4 +82,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:39:41Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:51:31Z._
