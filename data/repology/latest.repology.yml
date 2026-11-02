@@ -1,12 +1,12 @@
-- repo: nix_stable_25_11
+- repo: manjaro_testing
+  subrepo: extra
   srcname: stylelint
+  binname: stylelint
   visiblename: stylelint
-  version: 16.26.0
-  origversion: null
+  version: 15.10.3
+  origversion: 15.10.3-1
   status: outdated
-  summary: Mighty CSS linter that helps you avoid errors and enforce conventions
-  maintainers:
-    - me@momee.mt
+  summary: Mighty, modern CSS linter
   licenses:
     - MIT
 - repo: aur
@@ -28,6 +28,17 @@
   origversion: null
   status: newest
   summary: Modern CSS linter
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: stylelint
+  binname: stylelint
+  visiblename: stylelint
+  version: 15.10.3
+  origversion: 15.10.3-1
+  status: outdated
+  summary: Mighty, modern CSS linter
+  licenses:
+    - MIT
 - repo: nix_stable_24_05
   srcname: stylelint
   visiblename: stylelint
@@ -54,6 +65,17 @@
   srcname: stylelint
   visiblename: stylelint
   version: 16.19.1
+  origversion: null
+  status: outdated
+  summary: Mighty CSS linter that helps you avoid errors and enforce conventions
+  maintainers:
+    - me@momee.mt
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: stylelint
+  visiblename: stylelint
+  version: 16.26.0
   origversion: null
   status: outdated
   summary: Mighty CSS linter that helps you avoid errors and enforce conventions
