@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,541 · **Forks**: 1,027 · **Open issues**: 3,731 · **Contributors**: 437
+- **Stars**: 11,542 · **Forks**: 1,027 · **Open issues**: 3,731 · **Contributors**: 437
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 57 | 0 | 2 | 5 | 56 |
-| last60d | 2026-09-02 | 3 | 120 | 0 | 8 | 6 | 108 |
-| 90d | 2026-08-03 | 3 | 156 | 0 | 21 | 7 | 152 |
-| last180d | 2026-05-05 | 9 | 259 | 2 | 54 | 10 | 254 |
-| 360d | 2025-11-06 | 24 | 573 | 2 | 144 | 12 | 576 |
-| last720d | 2024-11-11 | 45 | 1016 | 2 | 337 | 35 | 1043 |
+| 30d | 2026-10-03 | 1 | 57 | 0 | 2 | 4 | 56 |
+| last60d | 2026-09-03 | 3 | 120 | 0 | 7 | 6 | 108 |
+| 90d | 2026-08-04 | 3 | 156 | 0 | 21 | 7 | 152 |
+| last180d | 2026-05-06 | 8 | 259 | 2 | 53 | 10 | 254 |
+| 360d | 2025-11-07 | 24 | 573 | 2 | 144 | 12 | 576 |
+| last720d | 2024-11-12 | 45 | 1016 | 2 | 336 | 35 | 1041 |
 
 ## Distribution status
 
-Reported by **9** distros on [repology.org](https://repology.org/project/stylelint). **2** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
+Reported by **11** distros on [repology.org](https://repology.org/project/stylelint). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:12:07Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:17:28Z._
