@@ -14,14 +14,14 @@ x install stylelint
 
 ## Code insight
 
-Total: **120,495** lines of code across **939** files in the top 5 languages.
+Total: **120,658** lines of code across **944** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 111,194 | 6,688 | 13,120 | 817 |
-| Json | 7,226 | 0 | 0 | 52 |
+| JavaScript | 111,348 | 6,716 | 13,170 | 819 |
+| Json | 7,224 | 0 | 0 | 52 |
 | TypeScript | 1,371 | 472 | 124 | 3 |
-| Css | 543 | 238 | 157 | 61 |
+| Css | 554 | 238 | 158 | 64 |
 | Sass | 92 | 20 | 27 | 6 |
 
 ## OpenSSF Scorecard
@@ -42,36 +42,27 @@ Lowest-scoring checks:
 
 ## Release
 
-- **Latest**: `18.0.0-next.0` (2026-10-01)
-- **Last commit**: 2026-11-02
+- **Latest**: `18.0.0` (2026-11-03)
+- **Last commit**: 2026-11-04
 
 ## Popularity
 
-- **Stars**: 11,540 · **Forks**: 1,027 · **Open issues**: 3,731 · **Contributors**: 437
+- **Stars**: 11,540 · **Forks**: 1,027 · **Open issues**: 3,732 · **Contributors**: 437
 
 ## Totals (cumulative)
 
-- **Releases**: 277 · **Merged PRs**: 5052 · **Open PRs**: 2 · **Closed issues**: 3625 · **Open issues**: 106 · **Commits**: 8086
+- **Releases**: 278 · **Merged PRs**: 5061 · **Open PRs**: 1 · **Closed issues**: 3628 · **Open issues**: 104 · **Commits**: 8095
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 1 | 58 | 0 | 2 | 4 | 57 |
-| last60d | 2026-09-04 | 3 | 119 | 0 | 7 | 6 | 109 |
-| 90d | 2026-08-05 | 3 | 153 | 0 | 21 | 7 | 153 |
-| last180d | 2026-05-07 | 8 | 259 | 2 | 53 | 10 | 255 |
-| 360d | 2025-11-08 | 24 | 573 | 2 | 143 | 12 | 577 |
-| last720d | 2024-11-13 | 45 | 1016 | 2 | 336 | 35 | 1040 |
-
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/stylelint). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `17.16.0` | ✅ latest |
-| Nix unstable | `17.14.1` | ⚠️ outdated |
+| 30d | 2026-10-05 | 2 | 66 | 0 | 4 | 3 | 66 |
+| last60d | 2026-09-05 | 3 | 127 | 0 | 9 | 5 | 118 |
+| 90d | 2026-08-06 | 4 | 161 | 0 | 23 | 6 | 162 |
+| last180d | 2026-05-08 | 9 | 267 | 1 | 55 | 8 | 264 |
+| 360d | 2025-11-09 | 25 | 582 | 1 | 146 | 10 | 586 |
+| last720d | 2024-11-14 | 46 | 1025 | 1 | 338 | 33 | 1049 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:09:00Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:44:16Z._
