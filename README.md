@@ -14,11 +14,11 @@ x install stylelint
 
 ## Code insight
 
-Total: **120,658** lines of code across **944** files in the top 5 languages.
+Total: **120,883** lines of code across **948** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 111,348 | 6,716 | 13,170 | 819 |
+| JavaScript | 111,573 | 6,741 | 13,215 | 823 |
 | Json | 7,224 | 0 | 0 | 52 |
 | TypeScript | 1,371 | 472 | 124 | 3 |
 | Css | 554 | 238 | 158 | 64 |
@@ -47,22 +47,31 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,540 · **Forks**: 1,027 · **Open issues**: 3,732 · **Contributors**: 437
+- **Stars**: 11,543 · **Forks**: 1,028 · **Open issues**: 3,732 · **Contributors**: 436
 
 ## Totals (cumulative)
 
-- **Releases**: 278 · **Merged PRs**: 5061 · **Open PRs**: 1 · **Closed issues**: 3628 · **Open issues**: 104 · **Commits**: 8095
+- **Releases**: 278 · **Merged PRs**: 5063 · **Open PRs**: 1 · **Closed issues**: 3632 · **Open issues**: 100 · **Commits**: 8097
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 2 | 66 | 0 | 4 | 3 | 66 |
-| last60d | 2026-09-05 | 3 | 127 | 0 | 9 | 5 | 118 |
-| 90d | 2026-08-06 | 4 | 161 | 0 | 23 | 6 | 162 |
-| last180d | 2026-05-08 | 9 | 267 | 1 | 55 | 8 | 264 |
-| 360d | 2025-11-09 | 25 | 582 | 1 | 146 | 10 | 586 |
-| last720d | 2024-11-14 | 46 | 1025 | 1 | 338 | 33 | 1049 |
+| 30d | 2026-10-06 | 2 | 68 | 0 | 3 | 3 | 68 |
+| last60d | 2026-09-06 | 3 | 128 | 0 | 10 | 4 | 120 |
+| 90d | 2026-08-07 | 4 | 163 | 0 | 24 | 5 | 164 |
+| last180d | 2026-05-09 | 9 | 269 | 1 | 56 | 6 | 266 |
+| 360d | 2025-11-10 | 25 | 583 | 1 | 147 | 8 | 588 |
+| last720d | 2024-11-15 | 46 | 1027 | 1 | 340 | 31 | 1050 |
+
+## Distribution status
+
+Reported by **11** distros on [repology.org](https://repology.org/project/stylelint). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `18.0.0` | ✅ latest |
+| Nix unstable | `17.14.1` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -73,4 +82,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:44:16Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:56:55Z._
