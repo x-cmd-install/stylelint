@@ -14,11 +14,11 @@ x install stylelint
 
 ## Code insight
 
-Total: **120,883** lines of code across **948** files in the top 5 languages.
+Total: **121,124** lines of code across **956** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| JavaScript | 111,573 | 6,741 | 13,215 | 823 |
+| JavaScript | 111,814 | 6,752 | 13,286 | 831 |
 | Json | 7,224 | 0 | 0 | 52 |
 | TypeScript | 1,371 | 472 | 124 | 3 |
 | Css | 554 | 238 | 158 | 64 |
@@ -43,30 +43,30 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `18.0.0` (2026-11-03)
-- **Last commit**: 2026-11-04
+- **Last commit**: 2026-11-06
 
 ## Popularity
 
-- **Stars**: 11,542 · **Forks**: 1,029 · **Open issues**: 3,733 · **Contributors**: 436
+- **Stars**: 11,543 · **Forks**: 1,029 · **Open issues**: 3,733 · **Contributors**: 436
 
 ## Totals (cumulative)
 
-- **Releases**: 278 · **Merged PRs**: 5063 · **Open PRs**: 1 · **Closed issues**: 3632 · **Open issues**: 101 · **Commits**: 8097
+- **Releases**: 278 · **Merged PRs**: 5065 · **Open PRs**: 9 · **Closed issues**: 3633 · **Open issues**: 100 · **Commits**: 8099
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 2 | 64 | 0 | 3 | 4 | 68 |
-| last60d | 2026-09-07 | 3 | 127 | 0 | 10 | 5 | 120 |
-| 90d | 2026-08-08 | 4 | 163 | 0 | 24 | 6 | 164 |
-| last180d | 2026-05-10 | 9 | 267 | 1 | 56 | 7 | 266 |
-| 360d | 2025-11-11 | 25 | 583 | 1 | 147 | 9 | 588 |
-| last720d | 2024-11-16 | 46 | 1027 | 1 | 340 | 32 | 1050 |
+| 30d | 2026-10-08 | 2 | 64 | 8 | 4 | 3 | 70 |
+| last60d | 2026-09-08 | 3 | 116 | 8 | 10 | 4 | 122 |
+| 90d | 2026-08-09 | 4 | 165 | 8 | 25 | 5 | 166 |
+| last180d | 2026-05-11 | 9 | 269 | 9 | 56 | 6 | 268 |
+| 360d | 2025-11-12 | 25 | 585 | 9 | 148 | 8 | 590 |
+| last720d | 2024-11-17 | 46 | 1029 | 9 | 341 | 31 | 1051 |
 
 ## Distribution status
 
-Reported by **11** distros on [repology.org](https://repology.org/project/stylelint). **2** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/stylelint). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -82,4 +82,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T08:12:36Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:11:09Z._
