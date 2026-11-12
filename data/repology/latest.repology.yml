@@ -1,22 +1,3 @@
-- repo: aur
-  srcname: stylelint
-  binname: stylelint
-  visiblename: stylelint
-  version: 18.0.0
-  origversion: 18.0.0-1
-  status: newest
-  summary: Mighty, modern CSS linter
-  maintainers:
-    - mewsen@aur
-  licenses:
-    - MIT
-- repo: homebrew
-  srcname: stylelint
-  visiblename: stylelint
-  version: 18.0.0
-  origversion: null
-  status: newest
-  summary: Modern CSS linter
 - repo: nix_stable_24_05
   srcname: stylelint
   visiblename: stylelint
@@ -39,6 +20,25 @@
     - me@momee.mt
   licenses:
     - MIT
+- repo: aur
+  srcname: stylelint
+  binname: stylelint
+  visiblename: stylelint
+  version: 18.0.0
+  origversion: 18.0.0-1
+  status: newest
+  summary: Mighty, modern CSS linter
+  maintainers:
+    - mewsen@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: stylelint
+  visiblename: stylelint
+  version: 18.0.0
+  origversion: null
+  status: newest
+  summary: Modern CSS linter
 - repo: nix_stable_25_05
   srcname: stylelint
   visiblename: stylelint
@@ -75,11 +75,11 @@
 - repo: nix_unstable
   srcname: stylelint
   visiblename: stylelint
-  version: 17.14.1
+  version: 17.16.0
   origversion: null
   status: outdated
   summary: Mighty CSS linter that helps you avoid errors and enforce conventions
   maintainers:
-    - fallback-mnt-nix@repology
+    - kamadorueda@gmail.com
   licenses:
     - MIT
