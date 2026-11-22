@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,555 · **Forks**: 1,128 · **Open issues**: 3,737 · **Contributors**: 436
+- **Stars**: 11,557 · **Forks**: 1,128 · **Open issues**: 3,737 · **Contributors**: 436
 
 ## Totals (cumulative)
 
@@ -57,20 +57,20 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-22 | 3 | 48 | 1 | 4 | 3 | 50 |
-| last60d | 2026-09-22 | 4 | 126 | 1 | 11 | 5 | 130 |
-| 90d | 2026-08-23 | 5 | 170 | 1 | 25 | 6 | 175 |
-| last180d | 2026-05-25 | 8 | 276 | 2 | 49 | 8 | 277 |
-| 360d | 2025-11-26 | 25 | 599 | 2 | 145 | 10 | 604 |
-| last720d | 2024-12-01 | 46 | 1038 | 2 | 322 | 30 | 1060 |
+| 30d | 2026-10-23 | 2 | 47 | 1 | 4 | 3 | 50 |
+| last60d | 2026-09-23 | 4 | 118 | 1 | 9 | 5 | 130 |
+| 90d | 2026-08-24 | 5 | 170 | 1 | 25 | 6 | 175 |
+| last180d | 2026-05-26 | 8 | 276 | 2 | 49 | 8 | 277 |
+| 360d | 2025-11-27 | 25 | 597 | 2 | 144 | 10 | 604 |
+| last720d | 2024-12-02 | 46 | 1035 | 2 | 322 | 30 | 1060 |
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/stylelint). **2** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/stylelint). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `18.0.0` | ✅ latest |
+| Homebrew | `18.1.0` | ✅ latest |
 | Nix unstable | `17.16.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -82,4 +82,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261121.yml` · 2026-11-21T08:35:35Z._
+_Snapshot: `data/card/261122.yml` · 2026-11-22T07:51:00Z._
