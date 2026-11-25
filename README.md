@@ -47,31 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 11,557 · **Forks**: 1,128 · **Open issues**: 3,738 · **Contributors**: 436
+- **Stars**: 11,558 · **Forks**: 1,129 · **Open issues**: 3,739 · **Contributors**: 436
 
 ## Totals (cumulative)
 
-- **Releases**: 279 · **Merged PRs**: 5091 · **Open PRs**: 2 · **Closed issues**: 3636 · **Open issues**: 102 · **Commits**: 8125
+- **Releases**: 279 · **Merged PRs**: 5091 · **Open PRs**: 9 · **Closed issues**: 3636 · **Open issues**: 103 · **Commits**: 8125
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 2 | 50 | 1 | 5 | 3 | 40 |
-| last60d | 2026-09-25 | 4 | 120 | 1 | 10 | 5 | 119 |
-| 90d | 2026-08-26 | 5 | 169 | 1 | 24 | 6 | 170 |
-| last180d | 2026-05-28 | 8 | 272 | 2 | 49 | 8 | 267 |
-| 360d | 2025-11-29 | 24 | 599 | 2 | 145 | 10 | 588 |
-| last720d | 2024-12-04 | 46 | 1037 | 2 | 322 | 30 | 1060 |
-
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/stylelint). **1** are ✅ on the latest upstream release, **7** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `18.1.0` | ✅ latest |
-| Nix unstable | `17.16.0` | ⚠️ outdated |
+| 30d | 2026-10-26 | 2 | 48 | 8 | 5 | 4 | 40 |
+| last60d | 2026-09-26 | 4 | 120 | 8 | 10 | 6 | 119 |
+| 90d | 2026-08-27 | 5 | 169 | 8 | 24 | 7 | 170 |
+| last180d | 2026-05-29 | 8 | 272 | 9 | 49 | 9 | 267 |
+| 360d | 2025-11-30 | 24 | 598 | 9 | 145 | 11 | 588 |
+| last720d | 2024-12-05 | 46 | 1035 | 9 | 322 | 31 | 1060 |
 
 ## Improve this data
 
@@ -82,4 +73,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:42:17Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T09:29:00Z._
