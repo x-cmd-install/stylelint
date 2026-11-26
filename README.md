@@ -14,12 +14,12 @@ x install stylelint
 
 ## Code insight
 
-Total: **121,726** lines of code across **961** files in the top 5 languages.
+Total: **121,719** lines of code across **961** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | JavaScript | 112,409 | 6,804 | 13,366 | 835 |
-| Json | 7,231 | 0 | 0 | 53 |
+| Json | 7,224 | 0 | 0 | 53 |
 | TypeScript | 1,371 | 472 | 124 | 3 |
 | Css | 554 | 238 | 158 | 64 |
 | Sass | 92 | 20 | 27 | 6 |
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `18.1.0` (2026-11-20)
-- **Last commit**: 2026-11-24
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 11,558 · **Forks**: 1,129 · **Open issues**: 3,739 · **Contributors**: 436
+- **Stars**: 11,560 · **Forks**: 1,130 · **Open issues**: 3,739 · **Contributors**: 436
 
 ## Totals (cumulative)
 
-- **Releases**: 279 · **Merged PRs**: 5091 · **Open PRs**: 9 · **Closed issues**: 3636 · **Open issues**: 103 · **Commits**: 8125
+- **Releases**: 279 · **Merged PRs**: 5096 · **Open PRs**: 6 · **Closed issues**: 3636 · **Open issues**: 103 · **Commits**: 8130
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 2 | 48 | 8 | 5 | 4 | 40 |
-| last60d | 2026-09-26 | 4 | 120 | 8 | 10 | 6 | 119 |
-| 90d | 2026-08-27 | 5 | 169 | 8 | 24 | 7 | 170 |
-| last180d | 2026-05-29 | 8 | 272 | 9 | 49 | 9 | 267 |
-| 360d | 2025-11-30 | 24 | 598 | 9 | 145 | 11 | 588 |
-| last720d | 2024-12-05 | 46 | 1035 | 9 | 322 | 31 | 1060 |
+| 30d | 2026-10-27 | 2 | 53 | 5 | 5 | 4 | 45 |
+| last60d | 2026-09-27 | 4 | 124 | 5 | 10 | 6 | 124 |
+| 90d | 2026-08-28 | 5 | 173 | 5 | 22 | 7 | 175 |
+| last180d | 2026-05-30 | 8 | 276 | 6 | 48 | 9 | 272 |
+| 360d | 2025-12-01 | 24 | 599 | 6 | 143 | 11 | 593 |
+| last720d | 2024-12-06 | 46 | 1039 | 6 | 320 | 31 | 1062 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for stylelint lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:29:00Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:58:50Z._
