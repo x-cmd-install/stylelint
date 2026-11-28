@@ -2,24 +2,24 @@ about:
   description: "A mighty CSS linter that helps you avoid errors and enforce conventions."
   license: MIT
   homepage: https://stylelint.io
-  head: 6830965
+  head: 9e26bb5
   archived: false
   latestVersion: "18.1.0"
   latestRelease: "18.1.0"
   latestPrerelease: "18.0.0-next.0"
-  collectedAt: 2026-11-27T10:22:56Z
+  collectedAt: 2026-11-28T09:31:19Z
 timeline:
   created: 2014-12-04
-  lastCommit: 2026-11-25
+  lastCommit: 2026-11-28
   lastVersion: 2026-11-20
   lastRelease: 2026-11-20
   lastPrerelease: 2026-10-22
 popularity:
   star: 11559
   watcher: 90
-  fork: 1139
+  fork: 1166
   release: 279
-  contributor: 436
+  contributor: 437
   pullRequest: 5868
   issue: 3739
 language:
@@ -33,63 +33,63 @@ language:
 totalBytes: 3148047
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 2
-    mergedPR: 44
-    openPR: 6
+    mergedPR: 46
+    openPR: 3
     closedIssue: 5
     openIssue: 4
-    commit: 45
+    commit: 47
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 4
-    mergedPR: 118
-    openPR: 6
+    mergedPR: 120
+    openPR: 3
     closedIssue: 10
     openIssue: 6
-    commit: 124
+    commit: 126
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 5
-    mergedPR: 172
-    openPR: 6
-    closedIssue: 21
+    mergedPR: 174
+    openPR: 3
+    closedIssue: 19
     openIssue: 7
-    commit: 175
+    commit: 177
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 8
-    mergedPR: 276
-    openPR: 7
+    mergedPR: 275
+    openPR: 4
     closedIssue: 48
     openIssue: 9
-    commit: 272
+    commit: 274
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 24
-    mergedPR: 597
-    openPR: 7
-    closedIssue: 143
+    mergedPR: 588
+    openPR: 4
+    closedIssue: 139
     openIssue: 11
-    commit: 593
+    commit: 595
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 46
-    mergedPR: 1038
-    openPR: 7
-    closedIssue: 320
+    mergedPR: 1039
+    openPR: 4
+    closedIssue: 319
     openIssue: 31
-    commit: 1058
+    commit: 1060
 total:
   release: 279
-  mergedPR: 5096
-  openPR: 7
+  mergedPR: 5098
+  openPR: 4
   closedIssue: 3636
   openIssue: 103
-  commit: 8130
+  commit: 8132
 ---
 path: /home/runner/.x-repo/github.com/stylelint/stylelint
-collectedAt: 2026-11-27T10:23:04Z
+collectedAt: 2026-11-28T09:31:28Z
 loc:
   JavaScript:
     code: 112409
@@ -143,8 +143,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 15168
-    blanks: 7005
+    comments: 15156
+    blanks: 7001
     files: 187
   Text:
     code: 0
@@ -152,9 +152,9 @@ loc:
     blanks: 2
     files: 2
 total:
-  code: 126552
-  comments: 23161
-  blanks: 20812
+  code: 126549
+  comments: 23149
+  blanks: 20810
   files: 1165
 ---
 date: "2026-10-19"
